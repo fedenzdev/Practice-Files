@@ -1,10 +1,10 @@
-/*document.addEventListener("click", myFunction);
+document.addEventListener("click", myFunction);
 
 function myFunction() {
   document.getElementById("demo").innerHTML = "Hello World";
 }
 
-document.addEventListener */
+document.addEventListener
 
 const button = document.querySelector('button');
 
