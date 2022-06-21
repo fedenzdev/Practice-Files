@@ -7,20 +7,14 @@ function change(par) {
     }
 }
 
+function modify() {
+    document.getElementById("second").innerHTML = "LALALALLALA"
+}
 
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
-console.log(Math.floor(Math.random()*2 +1));
+
+
+
+
+
+
 console.log(Math.floor(Math.random()*2 +1));
